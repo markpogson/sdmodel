@@ -8,7 +8,7 @@ this script is used to define variables for a specific trial and then run it
 
 """
 
-import social_diffusion_v7 as social_diffusion
+import social_diffusion
 
 # define variables ------------------------------------------------------------
 # give descriptive name for results subfolder (end with _ as date and time will be appended)
